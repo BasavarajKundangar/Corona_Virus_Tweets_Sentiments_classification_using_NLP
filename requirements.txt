@@ -1,8 +1,8 @@
 absl-py==0.13.0
 alabaster==0.7.12
 altair==4.1.0
-anaconda-client==1.1.1
-anaconda-navigator== none
+anaconda-client==1.7.2
+anaconda-navigator==2.0.4
 anaconda-project==0.8.3
 analytics-python==1.4.0
 antigravity==0.1
@@ -215,6 +215,7 @@ pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyperclip==1.8.2
 pyphen==0.11.0
+pypiwin32==223
 pyreadline==2.1
 PyRect==0.1.4
 pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
@@ -227,6 +228,8 @@ python-language-server @ file:///tmp/build/80754af9/python-language-server_16004
 PyTweening==1.0.3
 pytz==2020.1
 PyWavelets @ file:///C:/ci/pywavelets_1601658407916/work
+pywin32==227
+pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
